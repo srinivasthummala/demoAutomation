@@ -1,0 +1,4 @@
+header.page.infostretch.home.page.contact.us.loc = {\"locator\":\"xpath=//ul[@class='ul_headerlink']//a[text()='Contact Us']\",\"desc\":\"Contact us link\"}
+text.box.page.contact.us.first.name.loc = {\"locator\":\"css=.first_name input\",\"desc\":\"First name text box\"}
+text.box.page.contact.us.last.name.loc = {\"locator\":\"xpath=//input[@placeholder=\\\"Last Name *\\\"]\",\"desc\":\"Last name text box\"}
+text.box.page.contact.us.business.email.loc = {\"locator\":\"xpath=//input[@placeholder=\\\"Business Email *\\\"]\",\"desc\":\"Business email text box\"}

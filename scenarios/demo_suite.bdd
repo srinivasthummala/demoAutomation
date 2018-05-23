@@ -1,0 +1,12 @@
+
+
+SCENARIO: TC_DEMO_001
+META-DATA: {"description":"Sample demo Scenario" ,dataFile : "resources/data/UserData.xls", sheetName:"Employee", key:"Users"}
+	
+	Given user launches Infostretch site
+	Then user navigates to ContactUs page
+	
+	When user fills registration form using '${args[0]}' details
+	Then user compared the user details
+	
+END

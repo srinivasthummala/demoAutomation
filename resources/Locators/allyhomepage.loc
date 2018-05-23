@@ -1,0 +1,3 @@
+text.box.ally.homepage.username.loc = {\"locator\":\"xpath=//label[text()='Username']\",\"desc\":\"UserName Textbox\"}
+text.box.ally.homepage.password.loc = {\"locator\":\"xpath=//label[text()='Password']\",\"desc\":\"Password TextBox\"}
+text.box.ally.homepage.saveusername.loc = {\"locator\":\"xpath=//label[text()='Save username']\",\"desc\":\"Save UserName CheckBox\"}
